@@ -54,7 +54,7 @@ COMMANDS = {
     add: 'add',
     change: 'change',
     phone: 'phone',
-    show_all: 'show all',
+    show_all: 'show all'
 }
 
 
